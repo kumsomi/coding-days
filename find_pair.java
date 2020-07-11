@@ -29,5 +29,6 @@ public class Main
 	    int[] a={8,7,2,3,6,9,4,1,5};
 	    int k=10;
 	    pairs(a,k);
+		
 	}
 }
